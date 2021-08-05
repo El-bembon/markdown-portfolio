@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![AirJordan Icon](https://static.highsnobiety.com/thumbor/sUGq7w_OhFNUIhHwRKAPOsHOXAw=/fit-in/1000x600/smart/static.highsnobiety.com/wp-content/uploads/2018/10/12113017/air-jordan-jumpman-behind-the-logo-feat.jpg)
